@@ -37,3 +37,18 @@ myCoding.forEach( (item) => {
     
     console.log(item.languageName);
 } )
+
+
+
+const arr =  [1,2,3,4,5,6]
+
+arr.forEach((i) => {
+    console.log(i);
+    
+})
+
+for(const i  of arr)
+{
+    console.log(i)
+    
+}
